@@ -1,4 +1,4 @@
-# Week 4 — Security Labs
+# Security Labs
 
 ## Overview
 This folder contains my Week 4 artifact focused on system security and hardening. The goal of this assignment is to understand how to reduce risks by properly configuring a system.
